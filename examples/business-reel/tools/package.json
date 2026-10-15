@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "ffprobe-static": "3.1.0",
+    "gsap": "3.15.0"
+  }
+}
